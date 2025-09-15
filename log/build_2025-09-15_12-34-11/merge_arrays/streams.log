@@ -1,0 +1,38 @@
+[0.493s] Invoking command in '/home/enroche/ros2_ws/src/merge_arrays': PYTHONPATH=/home/enroche/ros2_ws/build/merge_arrays/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/enroche/ros2_ws/install/merge_arrays/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/merge_arrays build --build-base /home/enroche/ros2_ws/build/merge_arrays/build install --record /home/enroche/ros2_ws/build/merge_arrays/install.log --single-version-externally-managed install_data
+[0.601s] running egg_info
+[0.602s] creating ../../build/merge_arrays/merge_arrays.egg-info
+[0.602s] writing ../../build/merge_arrays/merge_arrays.egg-info/PKG-INFO
+[0.602s] writing dependency_links to ../../build/merge_arrays/merge_arrays.egg-info/dependency_links.txt
+[0.602s] writing entry points to ../../build/merge_arrays/merge_arrays.egg-info/entry_points.txt
+[0.602s] writing requirements to ../../build/merge_arrays/merge_arrays.egg-info/requires.txt
+[0.602s] writing top-level names to ../../build/merge_arrays/merge_arrays.egg-info/top_level.txt
+[0.602s] writing manifest file '../../build/merge_arrays/merge_arrays.egg-info/SOURCES.txt'
+[0.603s] reading manifest file '../../build/merge_arrays/merge_arrays.egg-info/SOURCES.txt'
+[0.604s] writing manifest file '../../build/merge_arrays/merge_arrays.egg-info/SOURCES.txt'
+[0.614s] running build
+[0.614s] running build_py
+[0.614s] creating /home/enroche/ros2_ws/build/merge_arrays/build
+[0.614s] creating /home/enroche/ros2_ws/build/merge_arrays/build/lib
+[0.614s] creating /home/enroche/ros2_ws/build/merge_arrays/build/lib/merge_arrays
+[0.614s] copying merge_arrays/__init__.py -> /home/enroche/ros2_ws/build/merge_arrays/build/lib/merge_arrays
+[0.614s] copying merge_arrays/merge_arrays_node.py -> /home/enroche/ros2_ws/build/merge_arrays/build/lib/merge_arrays
+[0.615s] running install
+[0.615s] running install_lib
+[0.615s] creating /home/enroche/ros2_ws/install/merge_arrays/lib/python3.10/site-packages/merge_arrays
+[0.615s] copying /home/enroche/ros2_ws/build/merge_arrays/build/lib/merge_arrays/__init__.py -> /home/enroche/ros2_ws/install/merge_arrays/lib/python3.10/site-packages/merge_arrays
+[0.615s] copying /home/enroche/ros2_ws/build/merge_arrays/build/lib/merge_arrays/merge_arrays_node.py -> /home/enroche/ros2_ws/install/merge_arrays/lib/python3.10/site-packages/merge_arrays
+[0.616s] byte-compiling /home/enroche/ros2_ws/install/merge_arrays/lib/python3.10/site-packages/merge_arrays/__init__.py to __init__.cpython-310.pyc
+[0.616s] byte-compiling /home/enroche/ros2_ws/install/merge_arrays/lib/python3.10/site-packages/merge_arrays/merge_arrays_node.py to merge_arrays_node.cpython-310.pyc
+[0.616s] running install_data
+[0.616s] creating /home/enroche/ros2_ws/install/merge_arrays/share/ament_index
+[0.616s] creating /home/enroche/ros2_ws/install/merge_arrays/share/ament_index/resource_index
+[0.617s] Sorry: TabError: inconsistent use of tabs and spaces in indentation (merge_arrays_node.py, line 13)
+[0.617s] creating /home/enroche/ros2_ws/install/merge_arrays/share/ament_index/resource_index/packages
+[0.617s] copying resource/merge_arrays -> /home/enroche/ros2_ws/install/merge_arrays/share/ament_index/resource_index/packages
+[0.617s] copying package.xml -> /home/enroche/ros2_ws/install/merge_arrays/share/merge_arrays
+[0.617s] running install_egg_info
+[0.618s] Copying ../../build/merge_arrays/merge_arrays.egg-info to /home/enroche/ros2_ws/install/merge_arrays/lib/python3.10/site-packages/merge_arrays-0.0.0-py3.10.egg-info
+[0.618s] running install_scripts
+[0.630s] Installing merge_arrays_node script to /home/enroche/ros2_ws/install/merge_arrays/lib/merge_arrays
+[0.631s] writing list of installed files to '/home/enroche/ros2_ws/build/merge_arrays/install.log'
+[0.643s] Invoked command in '/home/enroche/ros2_ws/src/merge_arrays' returned '0': PYTHONPATH=/home/enroche/ros2_ws/build/merge_arrays/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/enroche/ros2_ws/install/merge_arrays/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/merge_arrays build --build-base /home/enroche/ros2_ws/build/merge_arrays/build install --record /home/enroche/ros2_ws/build/merge_arrays/install.log --single-version-externally-managed install_data
